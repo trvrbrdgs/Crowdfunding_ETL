@@ -3,6 +3,7 @@
 
 ---
 *Purpose: Demonstrate ability to extract, transform, and load data*
+*Utilizing pandas, numpy, pgAdmin, and VSCode*
 
 ---
 ## Step One: Load Data From Excel File
@@ -17,6 +18,7 @@ Column labelled, "Category & sub-category" needed to be split so we can futher c
 ---
 ## Step Three: List categories
 After more data cleaning, needed to see what categories were extracted from data before cleaning further
+
 Created a category_df and a subcategory_df and then converted both to "category.csv" and "subcategory.csv" files, respectively
 ![Listing categories](Images/List_categories.png)
 
@@ -38,6 +40,7 @@ Columns with Data/Time data were difficult to read. Converted to an easily reada
 ---
 ## Step Seven: Drop unnecesssary columns
 After further review, decided to drop columns that were no longer relevant
+
 Created new .csv file called "campaign.csv" using this cleaned data
 ![Drop irrelevant columns](Images/Drop_Columns.png)
 
@@ -53,5 +56,7 @@ After extracting specific data and further cleaning of said data, exported snipp
 
 ---
 ## Step Ten: Tables created and ready for further SQL analysis
-Created a total of four .csv files from the original .xlsx file to be further analyzed in pgAdmin
+Created a total of four .csv files from the original .xlsx file to be further analyzed using SQL in pgAdmin
+![QuickDBD](Images/QuickDBD-export.png)
+![pgAdmin tables](Images/pgAdmin.png)
 
