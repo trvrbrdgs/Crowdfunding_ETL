@@ -3,6 +3,7 @@
 
 ---
 *Purpose: Demonstrate ability to extract, transform, and load data*
+
 *Utilizing pandas, numpy, pgAdmin, and VSCode*
 
 ---
