@@ -17,7 +17,7 @@ Column labelled, "Category & sub-category" needed to be split so we can futher c
 ---
 ## Step Three: List categories
 After more data cleaning, needed to see what categories were extracted from data before cleaning further
-![Listing categories](Imanges/List_categories.png)
+![Listing categories](Images/List_categories.png)
 
 ---
 ## Step Four: Clean labels
@@ -42,7 +42,7 @@ After further review, decided to drop columns that were no longer relevant
 ---
 ## Step Eight: Create Dictionaries from Data
 Created rows into dictionaries for later data extraction uses
-![Dictionaries](Images/Create_Dictionaries.png)
+![Dictionaries](Images/Create_Dictironaries.png)
 
 ---
 ## Step Nine: Extract, Clean, and Export Data Snippets
